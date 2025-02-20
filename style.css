@@ -1,0 +1,22 @@
+
+.navbar {
+background-color: rgb(145, 135, 135);
+Height: 10vh
+color#ffffff; }
+
+    .navbar .nav-link {
+    color: #000000;
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: 600; }
+
+        .btn {
+        padding: 9px 30px !important;
+        text-transform: uppercase !important;
+        font-size: 14px !important;
+        font-weight: 800 !important; }
+
+            .btn-brand {
+            background: rgb(0, 0, 0) !important;
+            color: #fff !important;
+            border: 2px solid #fff !important; }
